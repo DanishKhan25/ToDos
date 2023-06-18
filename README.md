@@ -29,17 +29,16 @@ This is a simple Todo App built using React. It allows you to create, update, an
     cd todo-app
 
 3. Install the dependencies: 
- 
-  ```shell
+   ```shell
    npm install
 
-4. Start the development server: 
+5. Start the development server: 
  
      ```shell
      npm start
 
 
-5. Open your browser and visit http://localhost:3000 to see the app.
+6. Open your browser and visit http://localhost:3000 to see the app.
 
 ## Technologies Used
 
