@@ -23,19 +23,23 @@ This is a simple Todo App built using React. It allows you to create, update, an
    ```shell
    git clone https://github.com/DanishKhan25/ToDos.git
    
-2. Navigate to the project directory: 
+2. Navigate to the project directory:
+   
      ```shell
     cd todo-app
 
-4. Install the dependencies: 
+3. Install the dependencies: 
+ 
   ```shell
    npm install
 
-6. Start the development server: 
+4. Start the development server: 
+ 
      ```shell
      npm start
 
-7. Open your browser and visit http://localhost:3000 to see the app.
+
+5. Open your browser and visit http://localhost:3000 to see the app.
 
 ## Technologies Used
 
