@@ -25,18 +25,18 @@ This is a simple Todo App built using React. It allows you to create, update, an
    
 2. Navigate to the project directory:cd todo-app
 
-3.Install the dependencies:npm install
+3. Install the dependencies:npm install
 
-4.Start the development server:npm start
+4. Start the development server:npm start
 
-5.Open your browser and visit http://localhost:3000 to see the app.
+5. Open your browser and visit http://localhost:3000 to see the app.
 
 ## Technologies Used
 
-React
-React Hooks
-HTML
-CSS
+-React
+-React Hooks
+-HTML
+-CSS
 
 ## Contributing
 Contributions are welcome! If you find any issues or want to contribute enhancements, please open an issue or a pull request in the GitHub repository.
