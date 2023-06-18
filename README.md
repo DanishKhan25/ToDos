@@ -10,13 +10,11 @@ This is a simple Todo App built using React. It allows you to create, update, an
 - Delete a task
 - Persist data in the browser's local storage
 
-![image]
-![image]()
 
 
 ## Screenshots
+![image](https://github.com/DanishKhan25/ToDos/assets/115468271/4443b73d-599e-4d87-8c8a-9cb9445d51bf)
 
-![Todo App Screenshot]((https://github.com/DanishKhan25/ToDos/assets/115468271/5c8e21c3-eca7-44f0-983e-5453852333d3))
 
 ## Installation
 
