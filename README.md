@@ -36,10 +36,10 @@ This is a simple Todo App built using React. It allows you to create, update, an
 
 ## Technologies Used
 
--React
--React Hooks
--HTML
--CSS
+- React
+- React Hooks
+- HTML
+- CSS
 
 ## Contributing
 Contributions are welcome! If you find any issues or want to contribute enhancements, please open an issue or a pull request in the GitHub repository.
